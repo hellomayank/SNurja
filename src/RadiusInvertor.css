@@ -1,0 +1,56 @@
+.Distributor{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background: white;
+    width: 100%;
+    height: 500px;
+}
+.Distributor img,.invertorImg{
+    height: 300px;
+    width:250px;
+    transition: all 0.5s ease-in-out;
+}
+.Distributor_Details{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.Distributor_Details h3, .Distributor_Details_h2{
+    color: black;
+}
+.Distributor_button{
+    width: 120px;
+    padding: 10px;
+    border: none;
+    outline: none;
+    background:#333;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.Distributor_button a{
+    text-decoration: none;
+    color: white;
+}
+.Distributor img:hover{
+    transform: scale(1.2);
+}
+.invertorBg{
+    width: 100vw;
+    height: 600px;
+    background-size: 100% 100%;
+}
+@media screen and (max-width:952px) {
+    .Distributor img,.invertorImg{
+        width:80%;
+        padding: 25px;
+    }
+    .invertorBg{
+        width: 100vw;
+        height: 400px;
+        background-size: 100% 100%;
+    }
+}

@@ -7,7 +7,7 @@ const SolarDryer = () => {
         <div className="MainContent" style={{backgroundImage:`url("/images/productbg.jpg")`,backgroundSize:"100% 100%"}}>
             <h2 className="Product_Header">Solar Dryer Solutions</h2>
             <div className="Products_Details">
-            <img src="/images/7.jpeg" alt="img_media"/>
+            <img src="/images/solardryer.jpeg" alt="img_media"/>
             <p>Air Source Heat Pump Water Heating System (ASHPWH) is a revolutionary 
             innovative product which gives 24/7 hot water. ASHPWH works with a world 
             wide proven high performance & power saving technology and regarded as 4th 
@@ -17,7 +17,7 @@ const SolarDryer = () => {
             <div class="container">
                     <div class="row app-brief">
                         <div class="col-sm-7">
-                            <img class="Product_Img" data-animation="fade-from-left" data-delay="250"  src="/images/6.jpeg"  alt="img_media"></img>
+                            <img class="Product_Img" data-animation="fade-from-left" data-delay="250"  src="/images/solardryer1.jpg"  alt="img_media"></img>
                         </div>
 
                         <div class="col-sm-5">

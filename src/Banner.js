@@ -3,7 +3,7 @@ function Banner(){
 return (
     <>
         <div className="banner" style={{backgroundImage:`url("/images/solarpanel-2.jpg")`,backgroundSize: "cover"}}>
-        <h3>Join The Solar Revolution with SNURJA</h3>
+        <h3>Join The Solar Revolution</h3>
         </div>
         <div className="clients col-12" >
             <div className="card-main">
@@ -14,7 +14,7 @@ return (
                 <p>rooftop solar projects</p>
             </div>
             <div className="card-1" style={{backgroundImage:`url("/images/corporateclients.jpg")`}}>
-                <h2>100+</h2>
+                <h2>50+</h2>
                 <p>Corporate Clients</p>
             </div>
             <div className="card-1" style={{backgroundImage:`url("/images/solar street light.jpg")`}}>

@@ -25,9 +25,15 @@ text-decoration: underline;}
     text-decoration: none;
     outline: none;
     border: none;
+    font-size: 18px;
 }
 #navbarDropdown{
     background: transparent;
     border: none;
     outline: none;
+}
+@media screen and (max-width:570px) {
+    .navbar-brand{
+        font-size: 15px;
+    }
 }

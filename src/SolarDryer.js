@@ -8,11 +8,16 @@ const SolarDryer = () => {
             <h2 className="Product_Header">Solar Dryer Solutions</h2>
             <div className="Products_Details">
             <img src="/images/solardryer.jpeg" alt="img_media"/>
-            <p>Air Source Heat Pump Water Heating System (ASHPWH) is a revolutionary 
-            innovative product which gives 24/7 hot water. ASHPWH works with a world 
-            wide proven high performance & power saving technology and regarded as 4th 
-            generation water heater. It is unique because, approximately 75 % of total 
-            heat energy generated is absorbed from the surrounding ambient air and 25 % from electricity.</p>
+            <p>Solar energy is an alternative source of energy for drying especially fruits, 
+            vegetables, agricultural grains and other kinds of material, such as wood. This 
+            procedure is especially applicable in the regions where the intensity of solar 
+            radiation is high and sunshine duration is long. It is estimated that in developing 
+            countries there exist significant post‐harvest losses of agricultural products, 
+            due to lack of other preservation means. Drying by solar energy is a rather economical 
+            procedure for agricultural products, especially for medium to small amounts of products. 
+            It is still used from domestic and small consumer for drying of crops, agricultural products
+             and foodstuff, such as fruits, vegetables, aromatic herbs, wood, etc. contributing thus 
+             significantly to the economy of small agricultural communities and farms</p>
             </div>
             <div class="container">
                     <div class="row app-brief">
@@ -23,16 +28,20 @@ const SolarDryer = () => {
                         <div class="col-sm-5">
                             <div class="horizontal-break left"></div>
 
-                            <div class="v-spacer col-sm-12 v-height-small"></div>
-
-                            <ul class="v-list-v23">
-                                <li class="v-animation" data-animation="fade-from-right" data-delay="150" style={{opacity: "1",right:"0px"}}><i class="fa fa-check orgcolor"></i><span class="v-lead">Heat from Ambient Air is absorbed by evaporator coils containing refrigerant at low pressure an low temperature.</span></li>
-                                <li class="v-animation" data-animation="fade-from-right" data-delay="300" style={{opacity: "1",right:"0px"}}><i class="fa fa-check orgcolor"></i><span class="v-lead">Due to heat absorption the refrigerant boils & vaporizes.</span></li>
-                                <li class="v-animation" data-animation="fade-from-right" data-delay="450" style={{opacity: "1",right:"0px"}}><i class="fa fa-check orgcolor"></i><span class="v-lead">After passing through compressor, the refrigerant attains high temperature & high pressure and enters into condenser with heat exchanger.</span></li>
-                                <li class="v-animation" data-animation="fade-from-right" data-delay="600" style={{opacity: "1",right:"0px"}}><i class="fa fa-check orgcolor"></i><span class="v-lead">While condensing the refrigerant transfers heat to the water in the Heat Exchanger and thus loses its temperature.</span></li>
-                                <li class="v-animation" data-animation="fade-from-right" data-delay="750" style={{opacity: "1",right:"0px"}}><i class="fa fa-check orgcolor"></i><span class="v-lead">The refrigerant further loses its pressure & temperature while passing through expansion valve and enters evaporator chamber. Thus the cycle repeats.</span></li>
-                                <li class="v-animation" data-animation="fade-from-right" data-delay="900" style={{opacity: "1",right:"0px"}}><i class="fa fa-check orgcolor"></i><span class="v-lead">The COP (Coefficient of Performance) is between 3.5 to 4 which means that, it will produce 3.5 to 4 units of heat energy by consuming 1 units of electricity.</span></li>
-                            </ul>
+                            <div class="v-spacer col-sm-12 v-height-small"> 
+                            <h2>
+                                Heat Pump Based Solar Dryer
+                            </h2></div>
+                            <p id="product_secondaary_text">Renewable energy dryer through dehydration-dehumidification of/for vegetables, 
+                            fruits, agriculture products, herbs, seafood, wood & many such items for commercial 
+                            & industrial sector. It is one of the most advanced methods of dehydrating, which 
+                            dries products at low temperature and helps in preserving nutritional value as well 
+                            as original taste/aroma/fragrance of the product. Dehydrated products can be stored for 
+                            longer period of usage. If the products can be dehydrated at the point of origin, huge 
+                            cost incurred on of cold storage can be saved. With added benefit of Low transportation 
+                            cost due to light weight of dried products. We provide complete application based solution 
+                            with correct system for each product.</p>
+                            
                         </div>
                     </div>
             </div>

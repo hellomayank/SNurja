@@ -72,3 +72,10 @@ text-align: justify;
         height: 200px;
     }
 }
+#product_secondaary_text{
+    color: white;
+    text-align: justify;
+}
+.v-spacer h2{
+    color: white;
+}

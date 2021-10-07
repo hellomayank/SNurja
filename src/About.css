@@ -1,0 +1,35 @@
+.About_Us{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+.About_Us_I{
+    width: 45%;
+    text-align: justify;
+}
+.About_Us_II{
+    width:45%;
+}
+.About_Us_I p{
+    font-size: 18px;
+    color: white;
+}
+.About_Us_II img{
+   width: 80%;
+}
+@media screen and (max-width:952px){
+    .About_Us{
+        flex-direction: column;
+    }
+    .About_Us_I{
+        width: 100%;
+        text-align: justify;
+    }
+    .About_Us_II{
+        width: 100%;
+    }
+    .About_Us_II img{
+        width: 100%;
+     }
+}

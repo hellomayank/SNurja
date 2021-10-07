@@ -5,7 +5,7 @@ const CoolPaints = () => {
     return (
         <>  
         <div className="MainContent" style={{backgroundImage:`url("/images/productbg.jpg")`,backgroundSize:"100% 100%"}}>
-            <h2 className="Product_Header">Cool Pints Solutions</h2>
+            <h2 className="Product_Header">COOL PAINTS AND COATINGS</h2>
             <div className="Products_Details">
             <img src="/images/7.jpeg" alt="img_media"/>
             <p>Air Source Heat Pump Water Heating System (ASHPWH) is a revolutionary 

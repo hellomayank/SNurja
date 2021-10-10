@@ -6,7 +6,7 @@ import './Products.css';
              <div className="MainContent" style={{backgroundImage:`url("/images/productbg.jpg")`,backgroundSize:"100% 100%"}}>
             <h2 className="Product_Header">Solar Water Heating Solutions</h2>
             <div className="Products_Details">
-            <img src="/images/9.jpg" alt="img_media"/>
+            <img src="/images/9.JPG" alt="img_media"/>
           <p>The solar water heaters have various designs, while they all consist of collector and storage tank. The collector in solar water heater is used to collect the radiation from sunlight to heat the water. The insulated storage tank is used to store the water for later use. Solar water heaters are typically described according to the types of collector and the circulation system. Different types of solar water heaters have disparate ways to work. The solar water heater has an array of solar collectors to collect the energy from sunlight, the collectors are connected to each other. The tank is located on the collectors to store the water. During the day time, the water was heated. Under the principle of gravity (the density of hot water is lower than that of cold water), the cold water is heated circularly. The hot water will go up to tank for later use</p>
             </div>
             <div class="container">

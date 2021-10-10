@@ -3,9 +3,9 @@
     align-items: center;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    background: white;
     width: 100%;
     height: 500px;
+    background-color: rgb(161, 161, 161);;
 }
 .Distributor img,.invertorImg{
     height: 300px;

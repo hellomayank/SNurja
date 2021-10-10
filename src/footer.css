@@ -1,7 +1,7 @@
 .footer_main{
     display: flex;
-    justify-content: space-around;
-    align-items: flex-start;
+    justify-content: space-between;
+    align-items:flex-start;
     flex-direction: row;
     background:#343a40 ;
     padding: 50px;
@@ -12,6 +12,7 @@
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-between;
+    width: 33%;
 }
 .footer_content_h2{
     color: white;
@@ -20,7 +21,14 @@
 .footer_content a{
     text-decoration:none;
     border: none;
-     padding: 3px;
+    padding: 3px;
+    color: white;
+    transition: all 0.5s ease-in-out;
+}
+.footer_content p{
+    margin-bottom: 0;
+    text-decoration:none;
+    border: none;
     color: white;
     transition: all 0.5s ease-in-out;
 }

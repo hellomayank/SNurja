@@ -6,16 +6,17 @@
   box-sizing: border-box;
   text-decoration: none;
   font-family: "Poppins";
+ 
 }
-
-
 .contact_center{
     text-align: center;
 }
 
-.container {
-  margin-top: 50px;
-  width: 100%;
+#container {
+  background-color: rgb(186, 234, 253);
+}
+.container form{
+  height: 330px;
 }
 
  #contact_profile{

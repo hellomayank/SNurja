@@ -21,8 +21,17 @@ export const Footer = () => {
                     <a href="/coolpaints">Cool Paints</a>
                 </div>
                 
-             <button className="enquire_btn"><a href="/contact">Enquire Now</a></button>
-        
+                <div className="footer_content">
+                <h2 className="footer_content_h2">Contact Info</h2>
+                    <p>S K (INDIA) MARKETING,</p>
+                    <p>149, E-BLOCK, SIRSA , HARYANA,  INDIA</p>
+                    <p >skimmktg@gmail.com , radiusmktg@gmail.com </p>
+                    <p>+91-9416047116</p>
+                    <br/>
+                    <p>NIRMAL ENTERPRISES, GANDHI CHOWK, HISAR, HARYANA</p>
+                    <p>ramanhisar@gmail.com</p>
+                    <p>+91-9416244342</p>
+                </div>
             </div>
         </>
     )

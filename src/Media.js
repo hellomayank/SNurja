@@ -17,7 +17,10 @@ const Media = () => {
     <img src="/images/10.jpeg" alt="img_media"/>
     <img src="/images/11.jpeg" alt="img_media"/>
     <img src="/images/12.jpeg" alt="img_media"/>
-
+    <img src="/images/13.jpg" alt="img_media"/>
+    <img src="/images/14.jpg" alt="img_media"/>
+    <img src="/images/15.jpeg" alt="img_media"/>
+    <img src="/images/16.jpg" alt="img_media"/>
 
 
           </div>  

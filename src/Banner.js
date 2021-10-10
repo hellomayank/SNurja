@@ -7,7 +7,7 @@ return (
     <>
         <div className="banner" >
       {/*   style={{backgroundImage:`url("/images/solarpanel-2.jpg")`,backgroundSize: "cover"}} */}
-        <h3>Join The Solar Revolution</h3>
+        <h3>Join The Energy Efficiency Mission</h3>
         </div>
         <div className="clients col-12" >
             <div className="card-main">
@@ -32,7 +32,7 @@ return (
         </div>
 
                <div class="card-2">
-            <h2>Few Words About Us</h2>
+            <h2>About Us</h2>
           <p>
              Our company is an end-to-end customer oriented alternative energy company that is centered on marketing,trading and distribution of Solar and Energy efficient products and  solutions. 
           </p>

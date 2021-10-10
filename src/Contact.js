@@ -27,7 +27,6 @@ export const Contact = () => {
           <label for="user">Message: </label>
           <input type="text" name="Message" id="user4" class="form-control" style={{padding:"25px"}}/>
       </div>
-      <br/>
       <p class="text-center">Thank you for the time you spent with me . </p>
       <div class="sendbtn text-center">
           <button class="btn clickme" id="bn" type="submit">send</button>

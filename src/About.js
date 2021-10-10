@@ -19,9 +19,7 @@ import './About.css'
               solar products who also take up marketing and servicing of our different products. The company also takes 
               up projects to cater the specific requirement of customers.</p>
               </div>
-              <div className="About_Us_II">
-                  <img src="/images/giant-building-with-sun.jpg" alt="aboutus"></img>
-              </div>
+             
           </div>  
         </>
     )

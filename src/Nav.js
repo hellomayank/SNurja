@@ -33,6 +33,19 @@ function Nav() {
 
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ml-auto mb-2 mb-lg-0">
+            <li className="nav-item dropdown">
+                <button className="nav-link dropdown-toggle" id="navbarDropdown"  data-bs-toggle="dropdown" aria-expanded="false" >
+                  Useful Links
+                </button>
+                <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item text-dark" href="https://mnre.gov.in.">MNRE</a>
+                  <a class="dropdown-item text-dark" href="https://www.seci.co.in ">SECI</a>
+                  <a class="dropdown-item text-dark" href="https://hareda.gov.in ">HAREDA</a>
+                  <a class="dropdown-item text-dark" href="https://www.peda.gov.in ">PEDA</a>
+                  <a class="dropdown-item text-dark" href="https://www.dhbvn.org.in" >DHBVN</a>
+                  <a class="dropdown-item text-dark" href="https://pspcl.in" >PSPCL</a>
+                </ul>
+              </li>
               <li className="nav-item">
                 <a className="nav-link" aria-current="page" href="/about">About Us</a>
               </li>

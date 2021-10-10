@@ -9,7 +9,7 @@ export const Contact = () => {
   </div>
   <div class="container m-lg-auto" id="container">
       <br/><br/><br/><br/><br/>
-      <h1 class=" text-center" id="cntct"> Contact Us</h1><br/><br/>
+      <h1 class=" text-center" id="cntct"> Contact Us</h1>
       <form action="https://formsubmit.co/skimmktg@gmail.com" method="POST">
       <div class="from-group">
           <label for="user">Your Name: </label>
@@ -21,11 +21,11 @@ export const Contact = () => {
       </div>
       <div class="from-group">
           <label for="user">Your Mobile: </label>
-          <input type="email" name="Phone" id="user3" class="form-control"/>
+          <input type="number" name="Phone" id="user3" class="form-control"/>
       </div>
       <div class="from-group">
-          <label for="email">Message: </label>
-          <input type="text" name="Message" id="user4" class="form-control"/>
+          <label for="user">Message: </label>
+          <input type="text" name="Message" id="user4" class="form-control" style={{padding:"25px"}}/>
       </div>
       <br/>
       <p class="text-center">Thank you for the time you spent with me . </p>

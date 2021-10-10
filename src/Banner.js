@@ -1,8 +1,12 @@
 import './Banner.css';
 function Banner(){
+
+
+
 return (
     <>
-        <div className="banner" style={{backgroundImage:`url("/images/solarpanel-2.jpg")`,backgroundSize: "cover"}}>
+        <div className="banner" >
+      {/*   style={{backgroundImage:`url("/images/solarpanel-2.jpg")`,backgroundSize: "cover"}} */}
         <h3>Join The Solar Revolution</h3>
         </div>
         <div className="clients col-12" >
@@ -23,8 +27,10 @@ return (
             </div>
         </div>
         <div className="content_Main">
-
+        <div>
                <img src="/images/Banner_content_1.jpg"  className="m-auto" alt="Banner_Content_Image"/>
+        </div>
+
                <div class="card-2">
             <h2>Few Words About Us</h2>
           <p>
@@ -32,25 +38,7 @@ return (
           </p>
           </div>
         </div>
-        <div className="content_Main2">
-            <div className="card-2">
-            <h2>Solar On and Off Grid Systems</h2>
-          <p>Provision of customised solutions as per specification and requirenment of customers.
-          </p>
-          </div>
-               <img src="/images/ongridsoln.jpeg" className="m-auto" alt="Banner_Content_Image"/>
-            
-        </div>
-        {/* <div className="content_Main">
       
-         <img src="/images/ongridsoln.jpeg"   className="m-auto" alt="Banner_Content_Image"/>
-     <div className="card-2">
-      <h2>Solar On and Off Grid Systems</h2>
-    <p>
-       Our company is an end-to-end customer oriented alternative energy company that is centered on marketing,trading and distribution of solar panels. 
-    </p>
-    </div>
-      </div> */}
 
     </>
 );

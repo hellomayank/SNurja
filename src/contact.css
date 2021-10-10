@@ -13,7 +13,7 @@
 }
 
 #container {
-  background-color: rgb(186, 234, 253);
+background: white;
 }
 .container form{
   height: 330px;
@@ -51,7 +51,7 @@
 }
 .contactImg img{
   width: 800px;
-  height: 600px;
+  height: 500px;
 }
 
 @media screen and (max-width:1052px) {

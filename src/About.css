@@ -6,14 +6,15 @@
     
 }
 .About_Us_I{
-    width: 45%;
+    width: 95%;
     text-align: justify;
 }
-.About_Us_II{
-    width:45%;
-}
+
 .About_Us_I p{
-    font-size: 18px;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 20px 0px;
+    line-height: 35px;
     color: white;
 }
 .About_Us_II img{

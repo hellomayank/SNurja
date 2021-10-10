@@ -36,12 +36,6 @@ function Nav() {
               <li className="nav-item">
                 <a className="nav-link" aria-current="page" href="/about">About Us</a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="/media">Media</a>
-              </li>
-              <li className="nav-item">
-                <a className="nav-link" href="/contact">Contact Us</a>
-              </li>
               <li className="nav-item dropdown">
                 <button className="nav-link dropdown-toggle" id="navbarDropdown"  data-bs-toggle="dropdown" aria-expanded="false" >
                   Services
@@ -57,6 +51,13 @@ function Nav() {
                   <li><a className="dropdown-item" href="/coolpaints">Cool Paints</a></li>
                 </ul>
               </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/media">Media</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link" href="/contact">Contact Us</a>
+              </li>
+             
               
             </ul>
             

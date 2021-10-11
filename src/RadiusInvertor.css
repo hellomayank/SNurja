@@ -14,12 +14,12 @@
 }
 .Distributor_Details{
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     justify-content: space-between;
     flex-direction: column;
     flex-wrap: wrap;
 }
-.Distributor_Details h3, .Distributor_Details_h2{
+.Distributor_Details_h2{
     color: black;
 }
 .Distributor_button{
@@ -52,5 +52,8 @@
         width: 100vw;
         height: 400px;
         background-size: 100% 100%;
+    }
+    .Distributor_Details_h2{
+       text-align: center;
     }
 }

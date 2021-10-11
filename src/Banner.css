@@ -20,6 +20,7 @@ body{
 .banner h3{
     color: white;
     text-align: center;
+    font-size: 35px;
     justify-content: center;
 }
 .clients{
@@ -128,16 +129,7 @@ height: 100%;
 .content_Main h2{
     color: black;
 }
-.content_Main2{
-   
-    padding: 5px 5vw;
-    display: flex;
-   align-items: center;
-   flex-wrap: wrap;
-    justify-content: space-between;
-    row-gap: 50px;
-    background: white;
-}
+
 .content_Main2 h2{
     color: black;
 }
@@ -169,14 +161,7 @@ height: 100%;
     .card-main{
         width: 100%;
     }
-    .clients_Carousel{
-        width: 100vw;
-        height: auto;
-        display: flex;
-       align-items: center;
-       flex-direction: column;
-       justify-content: center;
-    }
+    
     .banner{
         width: 100vw;
        
@@ -184,20 +169,18 @@ height: 100%;
     .content_Main{
         width: 100%;
     }
-    .content_Main2{
-        width: 100%;
-    }
     .content_Main img{
         width: 100%;
     }
-    .content_Main2 img{
-        width: 100%;
-    }
+    
     .card-1 h2{
         width: 100%;
     }
     .card-2 h2{
         width: 100%;
+    }
+    .banner h3{
+        font-size: 25px;
     }
 }
 @keyframes carousel {

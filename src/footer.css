@@ -63,10 +63,14 @@
         height: 100%;
       }
           .footer_content{
+              width: 100%;
               margin: 5px;
           }
           .enquire_btn{
               width:120px;
               padding: 10px;
+          }
+          .footer_content p{
+              font-size: 17px;
           }
 }

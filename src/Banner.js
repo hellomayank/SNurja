@@ -17,7 +17,7 @@ return (
                 <h2>50+</h2>
                 <p>Corporate Clients</p>
             </div>
-            <div className="card-1" style={{backgroundImage:`url("/images/solar street light.jpeg")`}}>
+            <div className="card-1" style={{backgroundImage:`url("/images/solarlight.jpeg")`}}>
                 <h2>100+</h2>
                 <p>Solar Street Light projects</p>
             </div>

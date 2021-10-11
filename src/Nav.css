@@ -23,9 +23,11 @@ nav{
 }
 
 .nav-link{
-    color :gold !important;
+    color :white !important;
+    font-weight: bold;
 }
-.navbar-brand{color:gold !important;
+.navbar-brand{color:white !important;
+    font-weight: bold;
 text-decoration: underline;}
 .navbar-brand{
     text-decoration: none;

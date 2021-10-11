@@ -58,10 +58,10 @@ function Nav() {
                 <a className="nav-link" href="/media">Media</a>
               </li>
               <li className="nav-item dropdown">
-                <button className="nav-link dropdown-toggle" id="navbarDropdown"  data-bs-toggle="dropdown" aria-expanded="false" >
+                <button className="nav-link dropdown-toggle" id="navbarDropdown2"  data-bs-toggle="dropdown" aria-expanded="false" >
                   Useful Links
                 </button>
-                <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
+                <ul className="dropdown-menu" aria-labelledby="navbarDropdown2">
                 <a class="dropdown-item text-dark" href="https://mnre.gov.in.">MNRE</a>
                   <a class="dropdown-item text-dark" href="https://www.seci.co.in ">SECI</a>
                   <a class="dropdown-item text-dark" href="https://hareda.gov.in ">HAREDA</a>

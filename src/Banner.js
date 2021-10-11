@@ -1,9 +1,65 @@
 import './Banner.css';
+import Carousel from 'react-bootstrap/Carousel'
 function Banner(){
 return (
     <>
         <div className="banner" >
-        <h3>Join The Energy Efficiency Mission</h3>
+         <h3 style={{position:"absolute",zIndex:"999"}}>Join The Energy Efficiency Mission</h3> 
+        <Carousel fade style={{width:"100%"}}>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="/projectphoto/3.jpg"
+      alt="First slide"
+      style={{backgroundSize:"100% 100%",height:"520px"}}
+    />
+  
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="/projectphoto/PHOTO1.jpeg"
+      alt="Second slide"
+      style={{backgroundSize:"100% 100%",height:"520px"}}
+    />
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="/projectphoto/2.jpeg"
+      alt="Third slide"
+      style={{backgroundSize:"100% 100%",height:"520px"}}
+    />
+
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="/projectphoto/4.jpg"
+      alt="Third slide"
+      style={{backgroundSize:"100% 100%",height:"520px"}}
+    />
+
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="/projectphoto/5.jpg"
+      alt="Third slide"
+      style={{backgroundSize:"100% 100%",height:"520px"}}
+    />
+
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="/projectphoto/2.jpeg"
+      alt="Third slide"
+      style={{backgroundSize:"100% 100%",height:"520px"}}
+    />
+
+  </Carousel.Item>
+</Carousel>
         </div>
         <div className="clients col-12" >
             <div className="card-main">

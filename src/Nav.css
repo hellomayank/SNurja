@@ -17,6 +17,7 @@ nav{
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 1;
+    z-index: 999;
 }
 .dropdown-item {
     font-size: 18px !important;
@@ -37,7 +38,7 @@ text-decoration: underline;}
     text-transform: capitalize;
     font-weight: 600;
 }
-#navbarDropdown{
+#navbarDropdown,#navbarDropdown2{
     background: transparent;
     border: none;
     outline: none;

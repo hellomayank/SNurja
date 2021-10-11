@@ -86,7 +86,7 @@ return (
                <div class="card-2">
             <h2>About Us</h2>
           <p>
-             Our company is an end-to-end customer oriented alternative energy company that is centered on marketing,trading and distribution of Solar and Energy efficient products and  solutions. 
+          Our company is an end-to-end customer oriented alternative energy company that is centered on designing, procurement and installation of Solar and Energy efficient products and solutions as per specification and requirement of customers. Apart from this we also believe in best after sales services and support.
           </p>
           </div>
         </div>

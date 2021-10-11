@@ -1,12 +1,8 @@
 import './Banner.css';
 function Banner(){
-
-
-
 return (
     <>
         <div className="banner" >
-      {/*   style={{backgroundImage:`url("/images/solarpanel-2.jpg")`,backgroundSize: "cover"}} */}
         <h3>Join The Energy Efficiency Mission</h3>
         </div>
         <div className="clients col-12" >
@@ -21,7 +17,7 @@ return (
                 <h2>50+</h2>
                 <p>Corporate Clients</p>
             </div>
-            <div className="card-1" style={{backgroundImage:`url("/images/solar street light.jpg")`}}>
+            <div className="card-1" style={{backgroundImage:`url("/images/solar street light.jpeg")`}}>
                 <h2>100+</h2>
                 <p>Solar Street Light projects</p>
             </div>

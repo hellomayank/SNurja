@@ -12,7 +12,7 @@ const Media = () => {
     <img src="/images/6.jpeg" alt="img_media"/>
     <img src="/images/7.jpeg" alt="img_media"/>
     <img src="/images/ruralareaspanel.jpg" alt="img_media"/>
-    <img src="/images/solar street light.jpg" alt="img_media"/>
+    <img src="/images/solar street light.jpeg" alt="img_media"/>
     <img src="/images/9.JPG" alt="img_media"/>
     <img src="/images/10.jpeg" alt="img_media"/>
     <img src="/images/11.jpeg" alt="img_media"/>
@@ -21,7 +21,10 @@ const Media = () => {
     <img src="/images/14.jpg" alt="img_media"/>
     <img src="/images/15.jpeg" alt="img_media"/>
     <img src="/images/16.jpg" alt="img_media"/>
-
+    <img src="/images/17.jpg" alt="img_media"/>
+    <img src="/images/18.jpg" alt="img_media"/>
+    <img src="/images/19.jpg" alt="img_media"/>
+    <img src="/images/20.JPG" alt="img_media"/>
 
           </div>  
         </>

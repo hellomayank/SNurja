@@ -21,6 +21,35 @@ import './About.css'
               </div>
              
           </div>  
+
+          <div  id="contact">
+    <h2 class="contact_center">Our Team</h2>
+  
+    <div class="container_about">
+      <div class="team">
+        <div class="member">
+          <img src="/images/profile-1.jpg" alt="member_image" id="contact_profile"/>
+          <h3>Puneet Aggarwal</h3>
+          <span>skimmktg@gmail.com</span>
+          <p>S K (INDIA) MARKETING, 149, E-BLOCK, SIRSA , HARYANA,  INDIA</p>
+          <div class="btn">
+            <a href="tel:+91-7015635972">Contact me</a>
+          </div>
+        </div>
+        <div class="member">
+          <img src="/images/profile-2.jpeg" alt="member_image" id="contact_profile"/>
+          <h3>Raman Choudhary</h3>
+          <span>ramanhisar@gmail.com</span>
+          <p>NIRMAL ENTERPRISES, GANDHI CHOWK, HISAR, HARYANA</p>
+          <div class="btn">
+            <a href="tel:+91-9416244342">Contact me</a>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+
         </>
     )
 }

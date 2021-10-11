@@ -4,9 +4,9 @@ import React from 'react'
     return (
         <>  
         <div className="MainContent" style={{backgroundImage:`url("/images/productbg.jpg")`,backgroundSize:"100% 100%"}}>
-            <h2 className="Product_Header">Pool WaterHeating Solutions</h2>
+            <h2 className="Product_Header">Solar Street Light Solutions</h2>
             <div className="Products_Details">
-            <img src="/images/solar street light.jpg" alt="img_media"/>
+            <img src="/images/solar street light.jpeg" alt="img_media"/>
             <p>Solar street lights are effective and efficient light sources in which power is fed with the help of Photo-voltaic Panels. They are generally mounted on the lighting structure. There is a Rechargeable battery, which is charged by photo voltaic panels. Then the charge of that battery is used to powers a fluorescent or Led Lamp during the night. There have sensors, through them solar panels turn on and turn off automatically by sensing outdoor light with the help of light source. They are designed to work at night.</p>
             </div>
             <div class="container">

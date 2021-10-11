@@ -10,12 +10,12 @@ body{
 
 }
 .banner{
-    height: 480px;
+    height: 520px;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
      background-size: 100% 100%;
-     animation: carousel 20s ease-out  infinite;
+     animation: carousel 18s ease-out  infinite;
 }
 .banner h3{
     color: white;

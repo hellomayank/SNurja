@@ -74,7 +74,7 @@ text-align: justify;
         width: 100%;
         font-size: 1rem;
         padding: 5px;
-        height: 200px;
+        height: auto;
     }
 }
 #product_secondaary_text{

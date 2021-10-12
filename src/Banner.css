@@ -54,7 +54,6 @@ body{
     transition: all 0.5s ease-in-out;
 }
 .card-2{
-    height: 250px;
  max-width: 500px;
  min-width: 300px;
     font-size: 1.2rem;

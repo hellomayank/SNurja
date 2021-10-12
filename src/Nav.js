@@ -47,7 +47,7 @@ function Nav() {
                   <li><a className="dropdown-item" href="/heatpump">Heat Pump</a></li>
                   <li><a className="dropdown-item" href="/solardryer">Solar Dryers</a></li>
                   <li><hr className="dropdown-divider"/></li>
-                  <li><a className="dropdown-item" href="/gridinvertor">Ongrid and Off Grid Panels</a></li>
+                  <li><a className="dropdown-item" href="/gridinvertor">Ongrid and Off Grid Solutions</a></li>
                   <li><a className="dropdown-item" href="/waterHeating">Solar Water Heater</a></li>
                   <li><a className="dropdown-item" href="/poolheating">Pool Water Heating</a></li>
                   <li><a className="dropdown-item" href="/solarlight">Solar Street Lights</a></li>

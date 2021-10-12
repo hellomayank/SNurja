@@ -14,7 +14,7 @@ export const Footer = () => {
                 <div className="footer_content">
                 <h2 className="footer_content_h2">Products</h2>
                     <a href="/heatpump">Heat Pump</a>
-                    <a href="/gridinvertor">Ongrid and Off Grid Panels</a>
+                    <a href="/gridinvertor">Ongrid and Off Grid Solutions</a>
                     <a href="/solardryer">Solar Dryer</a>
                     <a href="/waterHeating">Solar Water Heater</a>
                     <a href="/poolheating">Pool Water Heating</a>

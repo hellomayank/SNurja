@@ -26,7 +26,7 @@ return (
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="/projectphoto/2.jpeg"
+      src="/projectphoto/2.jpg"
       alt="Third slide"
       style={{backgroundSize:"100% 100%",height:"520px"}}
     />
@@ -53,7 +53,25 @@ return (
   <Carousel.Item>
     <img
       className="d-block w-100"
-      src="/projectphoto/2.jpeg"
+      src="/projectphoto/6.jpg"
+      alt="Third slide"
+      style={{backgroundSize:"100% 100%",height:"520px"}}
+    />
+
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="/projectphoto/7.jpg"
+      alt="Third slide"
+      style={{backgroundSize:"100% 100%",height:"520px"}}
+    />
+
+  </Carousel.Item>
+  <Carousel.Item>
+    <img
+      className="d-block w-100"
+      src="/projectphoto/8.jpg"
       alt="Third slide"
       style={{backgroundSize:"100% 100%",height:"520px"}}
     />

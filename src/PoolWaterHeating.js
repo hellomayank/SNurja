@@ -4,15 +4,15 @@ import React from 'react'
     return (
         <>  
         <div className="MainContent" style={{backgroundImage:`url("/images/productbg.jpg")`,backgroundSize:"100% 100%"}}>
-            <h2 className="Product_Header">Pool WaterHeating Solutions</h2>
+            <h2 className="Product_Header">Pool Water Heating Solutions</h2>
             <div className="Products_Details">
-            <img src="/images/5.jpeg" alt="img_media"/>
+            <img src="/images/pool.jpg" alt="img_media"/>
             <p>You can significantly reduce swimming pool heating costs by installing a solar pool heater/ heat pumps. They're cost competitive with other source of heating, and they have very low annual operating costs in different climate conditions.Pool water is pumped through the filter and then through the solar collector/ heat pump, where it is heated before it is returned to the pool. Before providing solution we have to assess</p>
             </div>
             <div class="container">
                     <div class="row app-brief">
                         <div class="col-sm-7">
-                            <img class="Product_Img" data-animation="fade-from-left" data-delay="250"  src="/images/pool.jpg"  alt="img_media"></img>
+                            <img class="Product_Img" data-animation="fade-from-left" data-delay="250"  src="/images/10.jpg"  alt="img_media"></img>
                         </div>
 
                         <div class="col-sm-5">

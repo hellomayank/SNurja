@@ -29,7 +29,7 @@ import './About.css'
       <div class="team">
         <div class="member">
           <img src="/images/profile-1.jpeg" alt="member_image" id="contact_profile"/>
-          <h3>Puneet Aggarwal</h3>
+          <h3>Puneet Agarwal</h3>
           <span>skimmktg@gmail.com</span>
           <p>149, E-BLOCK, SIRSA , HARYANA,  INDIA</p>
           <div class="btn">
@@ -38,7 +38,7 @@ import './About.css'
         </div>
         <div class="member">
           <img src="/images/profile-2.jpeg" alt="member_image" id="contact_profile"/>
-          <h3>Raman Choudhary</h3>
+          <h3>Raman Chaudhary</h3>
           <span>ramanhisar@gmail.com</span>
           <p>GANDHI CHOWK, HISAR, HARYANA</p>
           <div class="btn">

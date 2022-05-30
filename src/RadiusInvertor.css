@@ -9,7 +9,7 @@
 }
 .Distributor img,.invertorImg{
     height: 300px;
-    width:450px;
+    width:350px;
     transition: all 0.5s ease-in-out;
 }
 .Distributor_Details{
@@ -42,6 +42,9 @@
     width: 100vw;
     height: 600px;
     background-size: 100% 100%;
+}
+.container{
+    margin-top: 50px;
 }
 @media screen and (max-width:952px) {
     .Distributor img,.invertorImg{

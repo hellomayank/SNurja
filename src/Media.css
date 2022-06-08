@@ -4,18 +4,16 @@
     align-items:center ;
     justify-content: flex-start;
     flex-wrap: wrap;
-    
+    flex-direction: column;
 }
 .Media_pics img{
-    width:25%;
-    height: 300px;
+    width:85%;
+    height: 500px;
     padding:5px;
 }
 @media screen and (max-width:952px) {
-    .Media_pics{
-        flex-direction: column;
-    }
     .Media_pics img{
         width: 100%;
+        height: 300px;
     }
 }

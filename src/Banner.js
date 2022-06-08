@@ -5,7 +5,7 @@ function Banner() {
   return (
     <>
       <div className="banner" >
-        {/* <h3 style={{ position: "absolute", zIndex: "999" }}>Join The Energy Efficiency Mission</h3> */}
+
         <Carousel fade style={{ width: "100%" }}>
           {data.map((ele, idx) => {
             return <Carousel.Item key={idx}>
@@ -13,7 +13,7 @@ function Banner() {
                 className="d-block w-100"
                 src={ele.imageUrl}
                 alt="First slide"
-                style={{ backgroundSize: "100% 100%", height: "520px" }}
+                style={{ backgroundSize: "100% 100%", height: "580px" }}
               />
             </Carousel.Item>
           })}

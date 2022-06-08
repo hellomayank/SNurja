@@ -1,6 +1,6 @@
 export const data = [
     {
-        "imageUrl": "/projectphoto/1.jpg"
+        "imageUrl": "/projectphoto/1.jpeg"
     },
     {
         "imageUrl": "/projectphoto/2.jpg"
@@ -12,5 +12,8 @@ export const data = [
 
     {
         "imageUrl": "/projectphoto/7.jpg"
+    },
+    {
+        "imageUrl": "/projectphoto/8.jpeg"
     }
 ]

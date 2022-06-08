@@ -10,6 +10,7 @@
     width:85%;
     height: 500px;
     padding:5px;
+    margin-bottom: 20px;
 }
 @media screen and (max-width:952px) {
     .Media_pics img{

@@ -5,11 +5,6 @@ export const data = [
     {
         "imageUrl": "/projectphoto/2.jpg"
     },
-
-    {
-        "imageUrl": "/projectphoto/4.jpg"
-    },
-
     {
         "imageUrl": "/projectphoto/7.jpg"
     },

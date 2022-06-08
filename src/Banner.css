@@ -166,10 +166,12 @@ height: 100%;
     .card-main{
         width: 100%;
     }
-    
+    #banner_image_car{
+        height: 420px !important;
+    }
     .banner{
         width: 100vw;
-       
+       height: 420px !important;
     }
     .content_Main{
         width: 100%;

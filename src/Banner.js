@@ -5,14 +5,15 @@ function Banner() {
   return (
     <>
       <div className="banner" >
-        <Carousel fade style={{ width: "90%" }}>
+        <Carousel fade style={{ width: "100%" }}>
           {data.map((ele, idx) => {
             return <Carousel.Item key={idx}>
               <img
                 className="d-block w-100"
                 src={ele.imageUrl}
                 alt="First slide"
-                style={{ backgroundSize: "100% 100%", height: "520px", width: "90%" }}
+                id="banner_image_car"
+                style={{ backgroundSize: "100% 100%", height: "520px", width: "100%" }}
               />
             </Carousel.Item>
           })}

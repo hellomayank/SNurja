@@ -10,7 +10,7 @@ export const Contact = () => {
   <div class="container m-lg-auto" id="container">
       <br/><br/><br/><br/><br/>
       <h1 class=" text-center" id="cntct"> Contact Us</h1>
-      <form action="https://formsubmit.co/skimmktg@gmail.com" method="POST">
+      <form action="https://formsubmit.co/info@snurja.com" method="POST">
       <div class="from-group">
           <label for="user">Your Name: </label>
           <input type="text" name="Name" id="user1" class="form-control"/>

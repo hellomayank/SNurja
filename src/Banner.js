@@ -46,6 +46,7 @@ function Banner() {
           <p>
             Our company is an end-to-end customer oriented alternative energy company that is centered on designing, procurement and installation of Solar and Energy efficient products and solutions as per specification and requirement of customers. Apart from this we also believe in best after sales services and support.
           </p>
+          <p>Email us: info@snurja.com</p>
         </div>
       </div>
 
